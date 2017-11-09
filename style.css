@@ -1,0 +1,21 @@
+body{
+    background-image: url("q.jpg");
+    background-position: center;
+}
+h1{
+    color:ghostwhite;
+}
+#calculate{
+    background:url(wf.jpg);
+    background-repeat: no-repeat;
+    width:80px;
+    height:40px;
+    color:white;
+}
+#generateBoxes{
+    background-color:green;
+    color:yellow;
+}
+label{
+    display:block;
+}
